@@ -41,7 +41,7 @@ OAP ist keine weitere Plattform. Es ist eine fehlende Schicht des Internets, die
 
 ### Unsere Kernprinzipien
 
-Die Entwicklung des OAP-Frameworks folgt einer klaren Verfassung, die sicherstellt, dass die Technologie dem Menschen dient. Unser vollständiges Gründungs-Manifest finden Sie hier: [GRUENDUNGS-MANIFEST.md](GRUENDUNGS-MANIFEST.md).
+Die Entwicklung des OAP-Frameworks folgt einer klaren Verfassung, die sicherstellt, dass die Technologie dem Menschen dient. Unser vollständiges Gründungs-Manifest finden Sie hier: [GRUENDUNGS-MANIFEST.md](MANIFESTO.de.md).
 
 1.  **Der Mensch ist der Zweck, nicht das Mittel.**
 2.  **Wir denken in Ökosystemen, nicht in Silos.**
