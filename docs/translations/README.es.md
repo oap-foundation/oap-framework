@@ -47,7 +47,7 @@ C’est la couche manquante d’Internet, conçue pour résoudre deux problèmes
 ### Nos principes fondamentaux
 
 Le développement du cadre OAP suit une constitution claire garantissant que la technologie reste au service de l’humain.
-Vous pouvez consulter notre **Manifeste fondateur complet** ici : `[Manifeste fondateur (allemand)](GRUENDUNGS-MANIFEST.md)` | `[Traduction anglaise](./docs/translations/MANIFESTO.en.md)`
+Vous pouvez consulter notre **Manifeste fondateur complet** ici :  [MANIFESTO.es.md](MANIFESTO.es.md).
 
 1. **L’être humain est la fin, non le moyen.**
 2. **Nous pensons en écosystèmes, pas en silos.**
