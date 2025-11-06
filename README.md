@@ -42,7 +42,15 @@ OAP is not another platform. It is the missing layer of the Internet, designed t
 ---
 
 ### Our Core Principles
-The development of the OAP Framework follows a clear constitution to ensure that technology serves humanity. You can find our full Founding Manifesto here: `[Founding Manifesto (German)](GRUENDUNGS-MANIFEST.md)` | `[English Translation](./docs/translations/MANIFESTO.en.md)`
+The development of the OAP Framework follows a clear constitution to ensure that technology serves humanity. You can find our full Founding Manifesto here:
+
+<p align="center">
+  <a href="./docs/translations/MANIFESTO.de.md">Das OAP Gründungs-Manifest</a> | 
+  <a href="./MANIFESTO.md">The OAP Founding Manifesto</a>a> | 
+  <a href="./docs/translations/MANIFESTO.es.md">El manifiesto fundacional de la OAP</a> | 
+  <a href="./docs/translations/MANIFESTO.fr.md">Le manifeste fondateur de l'OAP</a> | 
+  <a href="./docs/translations/MANIFESTO.it.md">Il manifesto fondatore dell'OAP</a>
+</p>
 
 1. **Human beings are the purpose, not the means.**
 2. **We think in ecosystems, not silos.**
