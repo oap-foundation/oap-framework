@@ -44,7 +44,7 @@ OAP non è un’altra piattaforma. È lo strato mancante di Internet, progettato
 
 ### I nostri principi fondamentali
 
-Lo sviluppo del framework OAP segue una costituzione chiara per garantire che la tecnologia serva l’umanità. Puoi trovare il nostro manifesto fondativo completo qui: `[Founding Manifesto (German)](GRUENDUNGS-MANIFEST.md)` | `[English Translation](./docs/translations/MANIFESTO.en.md)`
+Lo sviluppo del framework OAP segue una costituzione chiara per garantire che la tecnologia serva l’umanità. Puoi trovare il nostro manifesto fondativo completo qui:  [MANIFESTO.it.md](MANIFESTO.it.md).
 
 1. **Gli esseri umani sono lo scopo, non il mezzo.**
 2. **Pensiamo in termini di ecosistemi, non di silos.**
