@@ -46,7 +46,7 @@ The development of the OAP Framework follows a clear constitution to ensure that
 
 <p align="center">
   <a href="./docs/translations/MANIFESTO.de.md">Das OAP Gründungs-Manifest</a> | 
-  <a href="./MANIFESTO.md">The OAP Founding Manifesto</a>a> | 
+  <a href="./MANIFESTO.md">The OAP Founding Manifesto</a> | 
   <a href="./docs/translations/MANIFESTO.es.md">El manifiesto fundacional de la OAP</a> | 
   <a href="./docs/translations/MANIFESTO.fr.md">Le manifeste fondateur de l'OAP</a> | 
   <a href="./docs/translations/MANIFESTO.it.md">Il manifesto fondatore dell'OAP</a>
