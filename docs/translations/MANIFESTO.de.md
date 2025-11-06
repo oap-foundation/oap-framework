@@ -2,7 +2,7 @@
 
 Unsere Kooperations-Charta
 
-Präambel: Wir leben in einer Zeit des exponentiellen Wandels. Lineare Strukturen und hierarchisches Denken sind Relikte einer vergangenen Welt. Wir gründen dieses Vorhaben nicht, um die Zukunft vorherzusagen, sondern um die Grundlage für ein wünschenswertes Multiversum an Zukünften zu schaffen. Wir bauen eine Infrastruktur, die auf europäischem Humanismus und digitaler Souveränität basiert. Unsere interne Arbeitsweise ist ein Spiegelbild dessen, was wir extern in der Welt erschaffen wollen: Zukunftsfähig und reflektiert, gemeinsam und sich selbst sehend.
+Präambel: Wir leben in einer Zeit des exponentiellen Wandels. Lineare Strukturen und hierarchisches Denken sind Relikte einer vergangenen Welt. Wir gründen dieses Vorhaben nicht, um die Zukunft vorherzusagen, sondern um die Grundlage für ein wünschenswertes Multiversum an Zukünften zu schaffen. Wir bauen eine Infrastruktur, die auf europäischem Humanismus und digitaler Souveränität basiert. Unsere interne Arbeitsweise ist ein Spiegelbild dessen, was wir extern in der Welt erschaffen wollen: **Zukunftsfähig und reflektiert, gemeinsam und sich selbst sehend.**
 
 ## Unsere 5 Kernprinzipien
 ### 1. Der Mensch ist der Zweck, nicht das Mittel.
