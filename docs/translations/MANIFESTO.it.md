@@ -2,7 +2,7 @@
 
 La nostra carta di cooperazione
 
-Preambolo: viviamo in un'epoca di cambiamenti esponenziali. Le strutture lineari e il pensiero gerarchico sono relitti di un mondo passato. Non fondiamo questo progetto per prevedere il futuro, ma per creare le basi di un multiverso desiderabile di futuri. Stiamo costruendo un'infrastruttura basata sull'umanesimo europeo e sulla sovranità digitale. Il nostro modo di lavorare internamente rispecchia ciò che vogliamo creare esternamente nel mondo: sostenibile e riflessivo, collaborativo e consapevole.
+Preambolo: viviamo in un'epoca di cambiamenti esponenziali. Le strutture lineari e il pensiero gerarchico sono relitti di un mondo passato. Non fondiamo questo progetto per prevedere il futuro, ma per creare le basi di un multiverso desiderabile di futuri. Stiamo costruendo un'infrastruttura basata sull'umanesimo europeo e sulla sovranità digitale. Il nostro modo di lavorare internamente rispecchia ciò che vogliamo creare esternamente nel mondo: **sostenibile e riflessivo, collaborativo e consapevole.**
 
 ## I nostri 5 principi fondamentali
 ### 1. L'essere umano è il fine, non il mezzo.
