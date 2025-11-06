@@ -1,3 +1,11 @@
+<p align="center">
+  Lisez ceci dans d'autres langues : 
+  <a href="./README.de.md">Deutsch</a> | 
+  <a href="../../README.md">English</a> | 
+  <a href="./README.es.md">Español</a> | 
+  <a href="./README.it.md">Italiano</a>
+</p>
+
 # Open Agent Protocol (OAP) Framework
 
 <p align="center">
