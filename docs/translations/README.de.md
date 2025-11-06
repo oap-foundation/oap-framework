@@ -1,6 +1,6 @@
 <p align="center">
   Lies dies in anderen Sprachen: 
-  <a href="../../../README.md">English</a> | 
+  <a href="../../README.md">English</a> | 
   <a href="./docs/translations/README.es.md">Español</a> | 
   <a href="./docs/translations/README.fr.md">Français</a> | 
   <a href="./docs/translations/README.it.md">Italiano</a>
