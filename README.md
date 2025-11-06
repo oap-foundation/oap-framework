@@ -1,7 +1,7 @@
 <p align="center">
   Read this in other languages: 
   <a href="./docs/translations/README.de.md">Deutsch</a> | 
-  <!-- <a href="./docs/translations/README.fr.md">Français</a> -->
+  <a href="./docs/translations/README.fr.md">Français</a>
 </p>
 
 # Open Agent Protocol (OAP) Framework
