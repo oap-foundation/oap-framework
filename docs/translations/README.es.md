@@ -1,9 +1,9 @@
 <p align="center">
   Lee esto en otros idiomas: 
-  <a href=".README.de.md">Deutsch</a> | 
+  <a href="./README.de.md">Deutsch</a> | 
   <a href="../../README.md">English</a> | 
-  <a href=".README.fr.md">Français</a> | 
-  <a href=".README.it.md">Italiano</a>
+  <a href="./README.fr.md">Français</a> | 
+  <a href="./README.it.md">Italiano</a>
 </p>
 
 # Open Agent Protocol (OAP) Framework
