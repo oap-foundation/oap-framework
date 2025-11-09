@@ -94,7 +94,7 @@ Questo è un progetto in fase iniziale. Le specifiche pubblicate (v0.1) sono int
 Cerchiamo gli architetti della prossima generazione digitale.
 Se credi in un futuro digitale aperto, equo e sovrano, ci sono diversi modi per contribuire:
 
-1. **Leggi e comprendi:** Inizia dal [Whitepaper (PDF)](https://oap.foundation/whitepaper.pdf) (link segnaposto) e dalle specifiche.
+1. **Leggi e comprendi:** Inizia dal [Whitepaper (PDF)](https://oap.foundation/OAP-Whitepaper-V6.pdf) (disponibile solo in tedesco) e dalle specifiche.
 2. **Discuti:** Apri un issue nei repository delle specifiche per fare domande tecniche, suggerire miglioramenti o evidenziare incongruenze.
 3. **Condividi:** Diffondi l’idea di un protocollo aperto per la fiducia nelle tue reti.
 
