@@ -80,7 +80,7 @@ Dies ist ein sehr frühes Stadium des Projekts. Die veröffentlichten Spezifikat
 
 Wir suchen die Architekten der nächsten digitalen Generation. Wenn Sie an eine offene, faire und souveräne digitale Zukunft glauben, gibt es mehrere Wege, sich einzubringen:
 
-1.  **Lesen & Verstehen:** Beginnen Sie mit dem [Whitepaper (PDF)](https://oap.foundation/whitepaper.pdf) (Platzhalter-Link zur Website) und den Spezifikationen.
+1.  **Lesen & Verstehen:** Beginnen Sie mit dem [Whitepaper (PDF)](https://oap.foundation/OAP-Whitepaper-V6.pdf) und den Spezifikationen.
 2.  **Diskutieren:** Öffnen Sie ein "Issue" in den jeweiligen Spezifikations-Repositories, um technische Fragen zu stellen, Vorschläge zu machen oder Inkonsistenzen aufzuzeigen.
 3.  **Teilen:** Verbreiten Sie die Idee eines offenen Protokolls für Vertrauen in Ihren Netzwerken.
 
