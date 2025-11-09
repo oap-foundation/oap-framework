@@ -98,7 +98,7 @@ Les spécifications publiées (v0.1) sont conçues comme une *proposition de tra
 Nous recherchons les architectes de la prochaine génération numérique.
 Si vous croyez en un avenir numérique ouvert, équitable et souverain, plusieurs moyens de participer s’offrent à vous :
 
-1. **Lire et comprendre :** Commencez par le [Livre blanc (PDF)](https://oap.foundation/whitepaper.pdf) (lien fictif vers le site) et les spécifications.
+1. **Lire et comprendre :** Commencez par le [Livre blanc (PDF)](https://oap.foundation/OAP-Whitepaper-V6.pdf) (solo disponible en alemán) et les spécifications.
 2. **Discuter :** Ouvrez une *issue* dans les dépôts de spécifications concernés pour poser des questions techniques, faire des suggestions ou signaler des incohérences.
 3. **Partager :** Diffusez l’idée d’un protocole ouvert pour la confiance dans vos réseaux.
 
