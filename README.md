@@ -100,7 +100,7 @@ This is an early-stage project. The published specifications (v0.1) are intended
 We are looking for the architects of the next digital generation.
 If you believe in an open, fair, and sovereign digital future, there are several ways to contribute:
 
-1. **Read & Understand:** Start with the [Whitepaper (PDF)](https://oap.foundation/OAP-Whitepaper-V6.pdf) (only in german) and the specifications.
+1. **Read & Understand:** Start with the [Whitepaper (PDF)](https://oap.foundation/OAP-Whitepaper-V6.en.pdf) and the specifications.
 2. **Discuss:** Open an issue in the respective specification repositories to ask technical questions, make suggestions, or point out inconsistencies.
 3. **Share:** Spread the idea of an open protocol for trust in your networks.
 
