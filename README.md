@@ -72,6 +72,20 @@ The OAP framework is a layered architecture that combines stability and modulari
 
 ---
 
+## Reference Implementations
+
+While OAP is language-agnostic, we provide official reference implementations to help developers build agents quickly.
+
+### PHP
+*   **Layer 0 (Trust & Transport):** [oap-foundation/oaep-php](https://github.com/oap-foundation/oaep-php)
+    *   Implementation of the *Open Agent Exchange Protocol*. Use this to establish secure connections and manage DIDs.
+*   **Layer 1 (Commerce):** [oap-foundation/oacp-php](https://github.com/oap-foundation/oacp-php)
+    *   Implementation of the *Open Agent Commerce Protocol*. Use this for negotiating offers and processing orders.
+
+---
+
+---
+
 ### The OAP Ecosystem on GitHub
 
 This project is a community effort and is divided into multiple repositories:
