@@ -1,0 +1,15 @@
+{
+    "name": "oap-foundation/oap-framework",
+    "description": "Open Agent Protocol Framework Monorepo",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/*"
+        }
+    ]
+}
