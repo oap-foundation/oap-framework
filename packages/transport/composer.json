@@ -1,0 +1,23 @@
+{
+    "name": "oap/transport",
+    "description": "OAP Transport Layer - Physical Message Transport",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Transport\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "oap/oaep": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../oaep"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

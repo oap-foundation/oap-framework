@@ -1,0 +1,23 @@
+{
+    "name": "oap/oapp",
+    "description": "OAP Payment Protocol - Payment Abstraction Layer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Payment\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "oap/oaep": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../oaep"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

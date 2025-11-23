@@ -1,0 +1,40 @@
+{
+    "name": "oap/agent-kernel",
+    "description": "OAP Agent Kernel - Executable Skeleton",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Kernel\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "oap/oaep": "dev-master",
+        "oap/oacp": "dev-master",
+        "oap/discovery": "dev-master",
+        "oap/transport": "dev-master",
+        "php-di/php-di": "^7.0",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../packages/oaep"
+        },
+        {
+            "type": "path",
+            "url": "../packages/oacp"
+        },
+        {
+            "type": "path",
+            "url": "../packages/discovery"
+        },
+        {
+            "type": "path",
+            "url": "../packages/transport"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "oap/oaep",
+    "description": "OAP Core Kernel - Identity, Trust, and Security",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Core\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-sodium": "*",
+        "ext-openssl": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

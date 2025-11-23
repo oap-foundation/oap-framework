@@ -1,0 +1,23 @@
+{
+    "name": "oap/oacp",
+    "description": "OAP Commerce Protocol - Business Logic Layer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Commerce\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "oap/oaep": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../oaep"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

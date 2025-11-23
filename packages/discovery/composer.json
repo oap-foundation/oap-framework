@@ -1,0 +1,22 @@
+{
+    "name": "oap/discovery",
+    "description": "OAP Discovery Module - Capability-based agent discovery middleware",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OAP\\Discovery\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../oaep"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
