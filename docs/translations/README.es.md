@@ -81,9 +81,9 @@ Todos los protocolos se encuentran actualmente en estado de **Candidato de Lanza
 
 La Fundación OAP mantiene las implementaciones oficiales de referencia en **Rust** para garantizar la seguridad de memoria y el rendimiento.
 
-*   **Lógica Core:** [`oap-foundation/oap-core-rs`](https://github.com/oap-foundation/oap-core-rs)
+*   **Lógica Core:** [`oap-foundation/Reference-Implementations/oap-core-rs`](https://github.com/oap-foundation/Reference-Implementations/oap-core-rs)
     *   *Contiene las primitivas criptográficas para la Capa 0 y la Capa 1.*
-*   **Lógica de Capa 2:** [`oap-foundation/layer2-core-rs`](https://github.com/oap-foundation/layer2-core-rs)
+*   **Lógica de Capa 2:** [`oap-foundation/Reference-Implementations/layer2-core-rs`](https://github.com/oap-foundation/Reference-Implementations/layer2-core-rs)
     *   *Máquinas de estado y lógica de validación para protocolos de aplicación.*
 
 Los bindings para **Python**, **JavaScript/WASM** y **Dart** están disponibles en sus respectivos repositorios.
