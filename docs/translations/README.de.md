@@ -81,9 +81,9 @@ Alle Protokolle befinden sich derzeit im Status **Release Candidate**.
 
 Die OAP Foundation pflegt die offiziellen Referenzimplementierungen in **Rust**, um Speichersicherheit und Leistung zu gewährleisten.
 
-*   **Kernlogik:** [`oap-foundation/oap-core-rs`](https://github.com/oap-foundation/oap-core-rs)
+*   **Kernlogik:** [`oap-foundation/oap-core-rs`](https://github.com/oap-foundation/Reference Implementations/oap-core-rs)
     *   *Enthält die kryptographischen Primitive für Layer 0 und Layer 1.*
-*   **Layer 2 Logik:** [`oap-foundation/layer2-core-rs`](https://github.com/oap-foundation/layer2-core-rs)
+*   **Layer 2 Logik:** [`oap-foundation/layer2-core-rs`](https://github.com/oap-foundation/Reference Implementations/layer2-core-rs)
     *   *Zustandsautomaten und Validierungslogik für Anwendungsprotokolle.*
 
 Bindings für **Python**, **JavaScript/WASM** und **Dart** sind in den entsprechenden Repositories verfügbar.
