@@ -81,9 +81,9 @@ Tous les protocoles sont actuellement en statut **Release Candidate**.
 
 La Fondation OAP maintient les implémentations de référence officielles en **Rust** pour garantir la sécurité de la mémoire et la performance.
 
-*   **Logique Core (Noyau) :** [`oap-foundation/oap-core-rs`](https://github.com/oap-foundation/oap-core-rs)
+*   **Logique Core (Noyau) :** [`oap-foundation/Reference-Implementations/oap-core-rs`](https://github.com/oap-foundation/Reference-Implementations/oap-core-rs)
     *   *Contient les primitives cryptographiques pour la Couche 0 et la Couche 1.*
-*   **Logique Couche 2 :** [`oap-foundation/layer2-core-rs`](https://github.com/oap-foundation/layer2-core-rs)
+*   **Logique Couche 2 :** [`oap-foundation/Reference-Implementations/layer2-core-rs`](https://github.com/oap-foundation/Reference-Implementations/layer2-core-rs)
     *   *Machines à états et logique de validation pour les protocoles applicatifs.*
 
 Les bindings pour **Python**, **JavaScript/WASM**, et **Dart** sont disponibles dans les dépôts respectifs.
